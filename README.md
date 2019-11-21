@@ -1,4 +1,4 @@
-# Compressed-tries
+# Compressed-tries for partial search in javascript 
 Compressing the trie and merging the common branches can sometimes yield large performance gains.This project suggest auto-complete results based on a partial string.
 
 # Query Serving Program 
